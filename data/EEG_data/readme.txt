@@ -1,1 +1,1 @@
-EEG数据
+The complete dataset includes EEG data of 23 participants from both pre-study and post-study, amounting to nearly 40GB, which is excessively large for an anonymous GitHub repository. We have provided the EEG data of one participant as an example. After the anonymous review process is concluded, we will supplement the link to the cloud drive containing the full dataset on GitHub.
