@@ -36,7 +36,7 @@ The code is provided in Python and Jupyter Notebook formats.
 
 ### Preprocessing Code
 
-- **Purpose**: Aligns EEG data with web-collected timestamps and extracts data for each event.
+- **Purpose**: Aligns EEG data with web-collected timestamps and extracts data for events.
 
 ### DE_Feature Code
 
