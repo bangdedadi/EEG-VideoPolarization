@@ -29,7 +29,7 @@ The "video title" contains information about the type of video:
 
 ## Questionnaire Data Overview
 
-The questionnaire data comprises responses from participants during the pre-study and post-study phases, presented in the form of a Likert scale.
+The questionnaire data comprises responses from participants during the pre-study and post-study phases, presented in the form of a Likert-scale.
 
 ### Structure of the Questionnaire
 
