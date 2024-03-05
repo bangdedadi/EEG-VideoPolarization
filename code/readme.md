@@ -24,5 +24,5 @@ We have provided the code in two formats, **Python** and **Jupyter Notebook**, f
 ## OP_Detection_Model Code
 
 - **Purpose**: Uses EEG data, behavior signals, and questionnaire data to train a model.
-- **Application**: Predicting exposure to opinion polarization.
+- **Application**: Predicting exposure to opinion polarization .
 
