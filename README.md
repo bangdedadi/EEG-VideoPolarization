@@ -30,6 +30,10 @@ This folder contains three key datasets: `behavio_signals`, `EEG_data`, and `que
 - **Data Size and Accessibility**: Total size nearly 40GB; one participant's data provided as an example.
 - **Future Access**: Post-review, a cloud drive link with the full dataset will be added to GitHub.
 
+## The Annotation Guideline
+
+Please rate the character's opinion in the video on a scale from 1 to 5, reflecting its polarity. A score of 1 corresponds to a pessimistic evaluation, while a score of 5 signifies an optimistic evaluation. Scores 2 and 4 represent moderately negative and positive evaluations, respectively, and a score of 3 denotes neutrality.
+
 ## Code Documentation
 
 The code is provided in Python and Jupyter Notebook formats.
